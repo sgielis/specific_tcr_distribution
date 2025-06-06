@@ -1,11 +1,11 @@
 # Epitope-specific TCR repertoires and prediction model performances
 
-This github repo provides the code for the manuscript 'Revealing the hidden sequence distribution of epitope-specific TCR repertoires and its influence on machine learning model performance'. The code is structured according to the subtitles in the results section of the paper. 
+This github repository provides the code for the manuscript 'Revealing the hidden sequence distribution of epitope-specific TCR repertoires and its influence on machine learning model performance'. The code is structured according to the subtitles in the results section of the paper. 
 
 
 ### Overview of the collected data  
 
-#### (1) Summarize the number of epitopes and training data in a table and a plot
+#### (1) Summarize the number of epitopes and training data
 - notebook: data_description/data_description.ipynb  
 - environment: description_env 
 - input: data/parsed/tcrex_models.csv  
@@ -85,27 +85,27 @@ This github repo provides the code for the manuscript 'Revealing the hidden sequ
 - output: results/ligo_simulations: this folder also contains the specs.yaml files that were used to simulate the repertoires
 
 #### (2) Cluster LIgO repertoires and their motifs
-- notebook: /ligo/clustering/cluster_ligo_results.ipynb 
+- notebook: ligo/clustering/cluster_ligo_results.ipynb 
 - environment: raptcr_env
 - input:
   - seeds.csv
-  - results/ligo_simulations:
+  - results/ligo_simulations
 - output
   - results/ligo_results/clustering_statistics.tsv: table of repertoire clustering
   - results/ligo_results/list_of_unique_motifs.tsv: list of all motifs:
   - results/ligo_results/impure_motif_clusters.tsv: list of impure clusters
 
 #### (3) UMAP of LIgO simulated repertoires
-- notebook: paper/ligo/umap/umap_ligo.ipynb 
+- notebook: ligo/umap/umap_ligo.ipynb 
 - environment: raptcr_env
-- input: simulations
+- input: results/ligo_simulations
 - output: figures are shown directly in the notebook
 
 
 ### TCRs in between clusters have low generation probability 
 
 #### (1) Simulate large repertoires using only one seed per repertoire
-- Task: From the 8 simulated repertoires in /oslo_project/results/ligo_simulations, keep one seed per yaml file and generate 3000 TCRs instead of 300 TCRs 
+- Task: From the 8 simulated repertoires in results/ligo_simulations, keep one seed per yaml file and generate 3000 TCRs instead of 300 TCRs 
    - Simulation 1: WTGEKHE  
    - Simulation 2: KGTGLYNE  
    - Simulation 3: SLAVGGYE  
@@ -135,21 +135,21 @@ This github repo provides the code for the manuscript 'Revealing the hidden sequ
 - environment: gen_prob  
 - True repertoires:  
   - input: results/generation_prob/true_repertoires/tcrex_pgen_data.csv  
-  - output: results/generation_prob/true_repertoires /link_clusters  
+  - output: results/generation_prob/true_repertoires/link_clusters  
 
 - Simulated repertoires:  
   - input: results/generation_prob/simulated_repertoires/all_data.csv  
-  - output: results/generation_prob/simulated_repertoires /link_clusters  
+  - output: results/generation_prob/simulated_repertoires/link_clusters  
 
 #### (5) Link_singlets.ipynb 
 Environment: gen_prob  
 - True repertoires:  
   - input: results/generation_prob/true_repertoires/tcrex_pgen_data.csv  
-  - output: results/generation_prob/true_repertoires /link_singlets  
+  - output: results/generation_prob/true_repertoires/link_singlets  
 
 - Simulated repertoires:  
   - input: results/generation_prob/simulated_repertoires/all_data.csv  
-  - output: results/generation_prob/simulated_repertoires /link_singlets  
+  - output: results/generation_prob/simulated_repertoires/link_singlets  
 
 
 ### Large overlap between positive and negative TCR sequences influences model performance
