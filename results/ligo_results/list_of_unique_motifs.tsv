@@ -1,0 +1,379 @@
+motif,seed,shared,size,origin,simulation,shared_sequences,unique_sequences
+CAGXRGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CAPTGXFYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CARGLAGGAXETQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CARPTGXFYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CASGXRGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CASIPXYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASLXGGGYEQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASLXGINQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASLXRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASNPTGRXYEQYF,NPTGDFYE,"No, No, No, No",4,simulation8_signal3,simulation8,0,4
+CASNPTGXAYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CASPGPXYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASPPXGGADTQYF,PFAGADT,"No, No",2,simulation5_signal1,simulation5,0,2
+CASPTGXFYEQYF,NPTGDFYE,"No, No, No",3,simulation8_signal3,simulation8,0,3
+CASPXGGSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASRAAXXTDTQYF,SRAAGSKDT,"No, No, No",3,simulation6_signal2,simulation6,0,3
+CASRAGAXLNTEAFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASRAGGXTDTQYF,SRAAGSKDT,"No, No, No, No",4,simulation6_signal2,simulation6,0,4
+CASRAGXSTDTQYF,SRAAGSKDT,"No, No, No",3,simulation6_signal2,simulation6,0,3
+CASRASGXYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASRDRGXNTEAFF,SYERGMNTE,"No, No",2,simulation2_signal2,simulation2,0,2
+CASRELAGXNQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASRGGXXYNEQFF,SRAGADYNE,"No, No, No",3,simulation2_signal3,simulation2,0,3
+CASRGVLAGXQETQYF,VLAPVQE,"No, No",2,simulation4_signal2,simulation4,0,2
+CASRGXNEKLFF,SRGSAET,"No, No",2,simulation3_signal3,simulation3,0,2
+CASRGXYEQYF,SRGSAET,"No, No",2,simulation3_signal3,simulation3,0,2
+CASRKGGGXTGELFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRKGQGXNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRKXGGGNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRLAGXSDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASRNPTGXSYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CASRRLXGGAYEQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CASRSGXAYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASRSRGGXYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASRTGXSYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASRTLAGGXNEQFF,RTLLGGASE,"Yes, Yes",2,simulation4_signal3,simulation4,2,0
+CASRTXGSTDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASRXGGGGDTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRXGGGLNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRXGGGRATEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRXGGGRNTEAFF,SRKGGGMWTE,"No, No, No, No",4,simulation7_signal2,simulation7,0,4
+CASRXGGPYNEQFF,SRAGADYNE,"No, Yes, No, No",4,simulation2_signal3,simulation2,1,3
+CASRXGGXMNTEAFF,SRKGGGMWTE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",16,simulation7_signal2,simulation7,0,16
+CASRXGTGXYNEQFF,KGTGLYNE,"No, No, No",3,simulation2_signal1,simulation2,0,3
+CASRXGTSYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASRXGXGMNTEAFF,SRKGGGMWTE,"No, Yes, No, No, No, No, No, No, No, No, No, No, No, No, No","10, 5",simulation7_signal2,simulation7,1,14
+CASRXLAGGXNEQFF,SHSLAGGSNE,"No, Yes, Yes",3,simulation6_signal3,simulation6,2,1
+CASRXLGGMNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASRXRATYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASRXSYEQYF,SRGSAET,"No, No",2,simulation3_signal3,simulation3,0,2
+CASRXXGGMNTEAFF,SRKGGGMWTE,"No, No, No, No, No, No, No, No, No, No",10,simulation7_signal2,simulation7,0,10
+CASRXXGSTDTQYF,SRAAGSKDT,"No, No, No, No, No, No, No, No, No, No, No",11,simulation6_signal2,simulation6,0,11
+CASSAAXSTDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSAXGSTDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSAXLAGGPHEQFF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSCRGGXHEQFF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSDPXRGADTQYF,PFAGADT,"No, No",2,simulation5_signal1,simulation5,0,2
+CASSDXXGMNTEAFF,SYERGMNTE,"No, No, No",3,simulation2_signal2,simulation2,0,3
+CASSELXGENQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASSEXSGSNQPQHF,ELSGINQP,"No, No, No, No, No",5,simulation3_signal2,simulation3,0,5
+CASSEXSGXNQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASSEXTGINQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASSFRGAXYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSFRGXPYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSFXGADTQYF,PFAGADT,"No, No, No",3,simulation5_signal1,simulation5,0,3
+CASSFXRXMNTEAFF,SYERGMNTE,"No, No, No",3,simulation2_signal2,simulation2,0,3
+CASSFXTGDFYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CASSGKGTGXYNSPLHF,KGTGLYNE,"No, No",2,simulation2_signal1,simulation2,0,2
+CASSGREGXYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSGRXGRYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSGTGXRGTDTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CASSHLXRAYEQYF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSHLXRNYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSHPLAGGXYEQYF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSHXSRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSLAGGXNEKLFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSLAGGXNEQFF,SHSLAGGSNE,"Yes, No, No",3,simulation6_signal3,simulation6,1,2
+CASSLAGXKDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSLAGXXYNEQFF,SRAGADYNE,"Yes, No, No",3,simulation2_signal3,simulation2,1,2
+CASSLARXGYEQFF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASSLAXGGHEQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASSLAXGGNEKLFF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASSLAXGGPYEQYF,SPLLAGGPYE,"No, Yes, No",3,simulation8_signal1,simulation8,1,2
+CASSLAXGGQETQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASSLAXGGTEAFF,SLAVGGYE,"No, No, No",3,simulation3_signal1,simulation3,0,3
+CASSLAXGGYGYTF,SLAVGGYE,"No, No, No",3,simulation3_signal1,simulation3,0,3
+CASSLAXGGYNEQFF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASSLAXGGYTF,SLAVGGYE,"No, No, No",3,simulation3_signal1,simulation3,0,3
+CASSLAXXGYEQYF,SLAVGGYE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",20,simulation3_signal1,simulation3,0,20
+CASSLEGDGXSYEQYF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGDRGXETQYF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGDXDTQYF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGDXSSYEQYF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGDXTGELFF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGDXXTEAFF,SLEGDMDSE,"No, No, No, No",4,simulation8_signal2,simulation8,0,4
+CASSLEGDXXYEQYF,SLEGDMDSE,"No, No, No, No, No, No, No, No, No, No, No",11,simulation8_signal2,simulation8,0,11
+CASSLEGDXYNEQFF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGGXDTEAFF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGGXDYEQXF,SLEGDMDSE,"No, No, No",3,simulation8_signal2,simulation8,0,3
+CASSLEGRXDTEAFF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLEGXMNTEAFF,SLEGDMDSE,"No, No, No, No, No, No, No",7,simulation8_signal2,simulation8,0,7
+CASSLEGXRDTEAFF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLELXGXNQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASSLFWTGEXYEQYF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CASSLGAGXPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSLGGASEQXF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CASSLGGAXYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSLGGXGLYNEQFF,KGTGLYNE,"No, No",2,simulation2_signal1,simulation2,0,2
+CASSLGPXGGSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASSLGPXRGAYNEQFF,VVGRGAYNE,"No, No",2,simulation7_signal1,simulation7,0,2
+CASSLGTSGXDTQYF,SEPTSGRDT,"No, No",2,simulation7_signal3,simulation7,0,2
+CASSLLAGGXYEQYF,SPLLAGGPYE,"No, No, No, No, No, No, No, No, No",9,simulation8_signal1,simulation8,0,9
+CASSLLAGPXYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSLLAGXPXEQFF,SPLLAGGPYE,"Yes, No, No",3,simulation8_signal1,simulation8,1,2
+CASSLLAGXXYEQYF,SPLLAGGPYE,"No, No, No",3,simulation8_signal1,simulation8,0,3
+CASSLLGGXSETQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CASSLRGXXYEQYF,SSQRGGIYE,"No, No, No",3,simulation1_signal2,simulation1,0,3
+CASSLRPGXYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSLSGXNQPQHF,ELSGINQP,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",16,simulation3_signal2,simulation3,0,16
+CASSLTGGXGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CASSLTXGGPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSLVGGXYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSLVGXGAYNEQFF,VVGRGAYNE,"No, No",2,simulation7_signal1,simulation7,0,2
+CASSLWTGEXTEAFF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CASSLXGDMNTEAFF,SLEGDMDSE,"No, No, No, No",4,simulation8_signal2,simulation8,0,4
+CASSLXGDRDSNQPQHF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLXGDRDSPLHF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSLXGDRDTEAFF,SLEGDMDSE,"No, No, No, No, No, No, No",7,simulation8_signal2,simulation8,0,7
+CASSLXGGRGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CASSLXGGSNEKLFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSLXGGSNEQFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSLXGGXYEQYF,SSQRGGIYE,"Yes, Yes, No, No, No, No, No, Yes",8,simulation1_signal2,simulation1,3,5
+CASSLXGINQPQHF,ELSGINQP,"No, No, No, No, No, No, No, No, No",9,simulation3_signal2,simulation3,0,9
+CASSLXLAGGXNEQFF,SHSLAGGSNE,"No, No, No, No",4,simulation6_signal3,simulation6,0,4
+CASSLXLYRGYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSLXPYRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSLXRGXNTEAFF,SYERGMNTE,"No, No, No, No, No, No, No, No, No, No, Yes",11,simulation2_signal2,simulation2,1,10
+CASSLXVGGKETQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASSLXVLAPYNEQFF,VLAPVQE,"No, No",2,simulation4_signal2,simulation4,0,2
+CASSLXXGMNTEAFF,SYERGMNTE,"No, No, No, No, No",5,simulation2_signal2,simulation2,0,5
+CASSLXXGXYEQYF,"SLAVGGYE,SRGSAET","Yes, Yes, Yes, No, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, No, No, Yes, Yes, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",80,"simulation3_signal1,simulation3_signal3",simulation3,8,72
+CASSLYRXYGYTF,HLYRAYG,"No, No, No, No",4,simulation1_signal3,simulation1,0,4
+CASSLYXAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSNPTGXXYEQYF,NPTGDFYE,"No, No, No",3,simulation8_signal3,simulation8,0,3
+CASSPGLAGGXNEQFF,"SHSLAGGSNE,SPLLAGGPYE","Yes, Yes, No, Yes, Yes, Yes, Yes","4, 3","simulation6_signal3,simulation8_signal1","simulation6,simulation8",6,1
+CASSPGLAGGXYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSPGPXYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASSPLAGADTGELFF,PFAGADT,"No, No, No, No",4,simulation5_signal1,simulation5,0,4
+CASSPPLAGXPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSPRGGXTEAFF,SSQRGGIYE,"No, Yes",2,simulation1_signal2,simulation1,1,1
+CASSPSXPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASSPTSGRXYEQYF,SEPTSGRDT,"No, No",2,simulation7_signal3,simulation7,0,2
+CASSPWGXSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASSPXGDFYEQYF,NPTGDFYE,"No, No, No",3,simulation8_signal3,simulation8,0,3
+CASSPXGGSYEQYF,"TPWGGSYE,SHSLAGGSNE","No, No, No, No, No, No, No, No, No, No, No, No, No, No, Yes, Yes, Yes, No, No",19,"simulation6_signal1,simulation6_signal3",simulation6,3,16
+CASSQDLXRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSQDRGXNTEAFF,SYERGMNTE,"No, No, No",3,simulation2_signal2,simulation2,0,3
+CASSQDRGXYEQYF,SSQRGGIYE,"No, No, No, No, No",5,simulation1_signal2,simulation1,0,5
+CASSQELGGXNQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASSQELXGXNQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASSQEXSGXNQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASSQGGXSYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSQGLSGXNQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASSQGXDYNEQFF,SRAGADYNE,"No, No, No, No",4,simulation2_signal3,simulation2,0,4
+CASSQXGGAYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSQXGQGYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSQXGXCYEQYF,SSQRGGIYE,"No, No, No",3,simulation1_signal2,simulation1,0,3
+CASSQXLAGADTQYF,PFAGADT,"No, No",2,simulation5_signal1,simulation5,0,2
+CASSQXPLXGINQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASSRAXQXYNEQFF,SRAGADYNE,"No, No, No",3,simulation2_signal3,simulation2,0,3
+CASSRGGPXYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSRGGXXYNEQFF,SRAGADYNE,"No, No, No",3,simulation2_signal3,simulation2,0,3
+CASSRGGXYEQYF,SSQRGGIYE,"No, No, No, No",4,simulation1_signal2,simulation1,0,4
+CASSRKGQGXNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASSRNXGSTDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSRPGXGMNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASSRXAGSGNTIYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSRXAGXTDTQYF,SRAAGSKDT,"No, No, No, No, No, No, No",7,simulation6_signal2,simulation6,0,7
+CASSRXGGGXNTEAFF,SRKGGGMWTE,"No, No, No, No",4,simulation7_signal2,simulation7,0,4
+CASSRXGGMNTEAFF,SYERGMNTE,"No, No",2,simulation2_signal2,simulation2,0,2
+CASSRXGGRMNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CASSRXGGWYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSRXGGXMNTEAFF,SRKGGGMWTE,"No, No, No, No",4,simulation7_signal2,simulation7,0,4
+CASSRXGXTYNEQFF,SRAGADYNE,"No, No, No",3,simulation2_signal3,simulation2,0,3
+CASSRXLAGGAYEQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CASSRXQGGMNTEAFF,SRKGGGMWTE,"No, No, No, No",4,simulation7_signal2,simulation7,0,4
+CASSRXXGSTDTQYF,SRAAGSKDT,"No, No, No, No, No, No, No, No",8,simulation6_signal2,simulation6,0,8
+CASSSEXGYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSSLAGXHNEQFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSSLAGXSYEQYF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSSLXTGLYNEQFF,KGTGLYNE,"No, No",2,simulation2_signal1,simulation2,0,2
+CASSSRAGGXNEQFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSSRLAGGXNEQFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSSRQGXYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSSRTSGSXDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSTGXRGTDTQYF,TGNRGADT,"No, No, No",3,simulation5_signal2,simulation5,0,3
+CASSTVXGGIYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSTXIGGSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASSVLAGVXEQFF,VLAPVQE,"No, No",2,simulation4_signal2,simulation4,0,2
+CASSVVLAXVYEQYF,VLAPVQE,"No, No",2,simulation4_signal2,simulation4,0,2
+CASSWTGEKXYEQYF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CASSWTGXXYEQYF,"SSQRGGIYE,WTGEKHE","No, No, No, No, No, No, No, No",8,"simulation1_signal2,simulation1_signal1",simulation1,0,8
+CASSXAGSPDTQYF,SRAAGSKDT,"No, No, No",3,simulation6_signal2,simulation6,0,3
+CASSXAGTPYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSXAXGSTDTQYF,SRAAGSKDT,"No, No, No, No, No, No, No",7,simulation6_signal2,simulation6,0,7
+CASSXDPTGDXYEQYF,NPTGDFYE,"No, No, No",3,simulation8_signal3,simulation8,0,3
+CASSXEGDMNTEAFF,SLEGDMDSE,"No, No",2,simulation8_signal2,simulation8,0,2
+CASSXEQGYGYTF,SYSEQGYG,"No, No, No, No, No",5,simulation5_signal3,simulation5,0,5
+CASSXFAGANTEAFF,PFAGADT,"No, No",2,simulation5_signal1,simulation5,0,2
+CASSXGAPYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSXGAXYNEQFF,SRAGADYNE,"No, No, No, No, No",5,simulation2_signal3,simulation2,0,5
+CASSXGDRGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CASSXGGGSYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSXGGIYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSXGGPPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASSXGLAGADTQYF,PFAGADT,"No, No, No",3,simulation5_signal1,simulation5,0,3
+CASSXGLAGVPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSXGPGTGPYNEQFF,KGTGLYNE,"No, No",2,simulation2_signal1,simulation2,0,2
+CASSXGRGXYNEQFF,VVGRGAYNE,"No, No, No, No, No, No, No, No, No, No",10,simulation7_signal1,simulation7,0,10
+CASSXGSYEQYF,SRGSAET,"No, No",2,simulation3_signal3,simulation3,0,2
+CASSXGTGMNTEAFF,SYERGMNTE,"No, No",2,simulation2_signal2,simulation2,0,2
+CASSXGTGXYNEQFF,KGTGLYNE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No",14,simulation2_signal1,simulation2,0,14
+CASSXGXDYNEQFF,SRAGADYNE,"No, No, No",3,simulation2_signal3,simulation2,0,3
+CASSXGXRGADTQYF,TGNRGADT,"No, No, No, No, No, No",6,simulation5_signal2,simulation5,0,6
+CASSXKGGGSYNEQFF,KGTGLYNE,"No, No",2,simulation2_signal1,simulation2,0,2
+CASSXKGXGSYNEQFF,KGTGLYNE,"No, No, No",3,simulation2_signal1,simulation2,0,3
+CASSXLAGGSNQPQHF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASSXLAGGYNEQFF,SHSLAGGSNE,"No, No, No, No, Yes, No, No, No, Yes, No, No, No, No, No, No, No",16,simulation6_signal3,simulation6,2,14
+CASSXLAGSTDTQYF,SRAAGSKDT,"No, No, No, No, No, No, No, No, No, No",10,simulation6_signal2,simulation6,0,10
+CASSXLAGXQETQYF,VLAPVQE,"No, No, No, No, No, No, No, No, No, No, No",11,simulation4_signal2,simulation4,0,11
+CASSXLGRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSXLQGINQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASSXLRGMNTEAFF,SYERGMNTE,"No, No",2,simulation2_signal2,simulation2,0,2
+CASSXLSGRNQPQHF,ELSGINQP,"No, No, No, No",4,simulation3_signal2,simulation3,0,4
+CASSXLSGXNQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASSXLTGINQPQHF,ELSGINQP,"No, No, No, No",4,simulation3_signal2,simulation3,0,4
+CASSXLYRGYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CASSXNPTGGSYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CASSXPGGHYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSXPGLAGADTQYF,PFAGADT,"No, No",2,simulation5_signal1,simulation5,0,2
+CASSXPGLAGGPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSXPGLPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASSXPLAGGPYNEQFF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSXPPGPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASSXPTGDXYEQYF,NPTGDFYE,"No, No, No, No, No, No, No, No, No",9,simulation8_signal3,simulation8,0,9
+CASSXPTGGTDTQYF,SEPTSGRDT,"No, No",2,simulation7_signal3,simulation7,0,2
+CASSXPTGPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASSXPTGXFYEQYF,NPTGDFYE,"No, No, No, No, No, No, No",7,simulation8_signal3,simulation8,0,7
+CASSXPXGGSYEQYF,TPWGGSYE,"No, No, No, No, No, No",6,simulation6_signal1,simulation6,0,6
+CASSXQLAGVQETQYF,VLAPVQE,"No, No",2,simulation4_signal2,simulation4,0,2
+CASSXRDRGAYNEQFF,VVGRGAYNE,"No, No",2,simulation7_signal1,simulation7,0,2
+CASSXREQGYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSXRGAYNEQFF,VVGRGAYNE,"No, No, No, No",4,simulation7_signal1,simulation7,0,4
+CASSXRGGAPYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSXRGSSYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSXRGSYEQYF,SRGSAET,"No, No",2,simulation3_signal3,simulation3,0,2
+CASSXRGXAYEQYF,SSQRGGIYE,"No, No, No",3,simulation1_signal2,simulation1,0,3
+CASSXRQGSYEQYF,SSQRGGIYE,"No, No, No, No",4,simulation1_signal2,simulation1,0,4
+CASSXRTGLYNEQFF,KGTGLYNE,"No, No, No",3,simulation2_signal1,simulation2,0,3
+CASSXRTGSYEQYF,SSQRGGIYE,"No, No",2,simulation1_signal2,simulation1,0,2
+CASSXRWTGEKLFF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CASSXSGGXYEQYF,SSQRGGIYE,"No, No, No, No, No, No",6,simulation1_signal2,simulation1,0,6
+CASSXSGINQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASSXSRLAGITDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASSXSXXGYGYTF,SYSEQGYG,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",57,simulation5_signal3,simulation5,0,57
+CASSXTGDFYEQYF,NPTGDFYE,"No, No, No, No, No",5,simulation8_signal3,simulation8,0,5
+CASSXTGLYNEQFF,KGTGLYNE,"No, No, No",3,simulation2_signal1,simulation2,0,3
+CASSXTGTGGSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASSXTGTRGTDTQYF,TGNRGADT,"No, No, No, No",4,simulation5_signal2,simulation5,0,4
+CASSXTLAGGAYEQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CASSXTSGRDNEQFF,SEPTSGRDT,"No, No",2,simulation7_signal3,simulation7,0,2
+CASSXTSGRDSTDTQYF,SEPTSGRDT,"No, No",2,simulation7_signal3,simulation7,0,2
+CASSXTSGXETQYF,SEPTSGRDT,"No, No, No, No, No, No",6,simulation7_signal3,simulation7,0,6
+CASSXTXGGGSYEQYF,TPWGGSYE,"No, No, No",3,simulation6_signal1,simulation6,0,3
+CASSXVGGYEQYF,SLAVGGYE,"No, No, No",3,simulation3_signal1,simulation3,0,3
+CASSXVLAGXQETQYF,VLAPVQE,"No, No, No, No, No",5,simulation4_signal2,simulation4,0,5
+CASSXVLAXGQETQYF,VLAPVQE,"No, No, No",3,simulation4_signal2,simulation4,0,3
+CASSXWTGEKLFF,WTGEKHE,"No, No, No, No, No, No, No",7,simulation1_signal1,simulation1,0,7
+CASSXXAGXDTQYF,PFAGADT,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",24,simulation5_signal1,simulation5,0,24
+CASSXXGDRGADTQYF,TGNRGADT,"No, No, No, No",4,simulation5_signal2,simulation5,0,4
+CASSXXGGGMNTEAFF,SRKGGGMWTE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No","27, 3",simulation7_signal2,simulation7,0,30
+CASSXXGGXYEQYF,SSQRGGIYE,"No, No, No, No, No, No, No, No, No, No",10,simulation1_signal2,simulation1,0,10
+CASSXXGTGXYNEQFF,KGTGLYNE,"No, No, No, No, No",5,simulation2_signal1,simulation2,0,5
+CASSXXGXNTEAFF,SYERGMNTE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",44,simulation2_signal2,simulation2,1,43
+CASSXXLAGGSNEQFF,SHSLAGGSNE,"No, No, No",3,simulation6_signal3,simulation6,0,3
+CASSXXLAGGSYEQYF,"SHSLAGGSNE,SPLLAGGPYE","Yes, No, Yes, Yes, No, Yes, Yes, Yes, Yes, Yes, Yes, Yes, Yes, Yes","8, 6","simulation6_signal3,simulation8_signal1","simulation6,simulation8",12,2
+CASSXXLAGGYNEQFF,SHSLAGGSNE,"No, No, No, Yes, No, No, No, No",8,simulation6_signal3,simulation6,1,7
+CASSXXLAGVQETQYF,VLAPVQE,"No, No, No, No, No, No, No, No",8,simulation4_signal2,simulation4,0,8
+CASSXXTSGTDTQYF,SEPTSGRDT,"No, No, No",3,simulation7_signal3,simulation7,0,3
+CASSXYRAYGYTF,HLYRAYG,"No, No, No, No, No, No",6,simulation1_signal3,simulation1,0,6
+CASSYAGAXYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASSYLAGXPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CASSYSEGXYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSYSEQGXYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSYSRQGXGYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSYSXGLNTEAFF,SYERGMNTE,"No, No",2,simulation2_signal2,simulation2,0,2
+CASSYSXQGYEQYF,SYSEQGYG,"No, No, No, No",4,simulation5_signal3,simulation5,0,4
+CASSYSXQVYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSYSXQXYGYTF,SYSEQGYG,"No, No, No",3,simulation5_signal3,simulation5,0,3
+CASSYXGLAGVQETQYF,VLAPVQE,"No, No",2,simulation4_signal2,simulation4,0,2
+CASSYXKQGYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CASSYXTGGNTEAFF,SYERGMNTE,"No, No, No",3,simulation2_signal2,simulation2,0,3
+CASTLXGGAYEQYF,RTLLGGASE,"No, No, No",3,simulation4_signal3,simulation4,0,3
+CASTPGXGSYEQYF,TPWGGSYE,"No, No, No, No",4,simulation6_signal1,simulation6,0,4
+CASTPLGXSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASTPXGSSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASTPXXGSYEQYF,TPWGGSYE,"No, No, No, No, No, No, No",7,simulation6_signal1,simulation6,0,7
+CASTVWGXSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASTXRGGSYEQYF,TPWGGSYE,"No, No, No",3,simulation6_signal1,simulation6,0,3
+CASTXTGGSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASTXWGSSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CASXASGGYEQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASXAXGGYEQYF,SLAVGGYE,"No, No, No, No, No, No, No",7,simulation3_signal1,simulation3,0,7
+CASXEGSMNTEAFF,SYERGMNTE,"No, Yes",2,simulation2_signal2,simulation2,1,1
+CASXGGGXYNEQFF,"SRAGADYNE,KGTGLYNE","No, No, No, No, No, No, No",7,"simulation2_signal3,simulation2_signal1",simulation2,0,7
+CASXGLQETQYF,SRGSAET,"No, No",2,simulation3_signal3,simulation3,0,2
+CASXGRGPYNEQFF,VVGRGAYNE,"No, No",2,simulation7_signal1,simulation7,0,2
+CASXGTGXYNEQFF,KGTGLYNE,"No, No, No, No, No, No, No, Yes",8,simulation2_signal1,simulation2,1,7
+CASXGXGLYNEQFF,KGTGLYNE,"No, No, No",3,simulation2_signal1,simulation2,0,3
+CASXGXRGADTQYF,TGNRGADT,"No, No, No, No, No, No",6,simulation5_signal2,simulation5,0,6
+CASXKLGGPPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CASXLAGGPYEQYF,SPLLAGGPYE,"No, Yes",2,simulation8_signal1,simulation8,1,1
+CASXLAXXQETQYF,VLAPVQE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",18,simulation4_signal2,simulation4,0,18
+CASXLTSGXDTQYF,SEPTSGRDT,"No, No, No",3,simulation7_signal3,simulation7,0,3
+CASXLXGGAXEQFF,RTLLGGASE,"No, No, No, No, No, No",6,simulation4_signal3,simulation4,0,6
+CASXLXRAYGYTF,HLYRAYG,"No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",15,simulation1_signal3,simulation1,0,15
+CASXPFEGTDTQYF,PFAGADT,"No, No",2,simulation5_signal1,simulation5,0,2
+CASXPGWDYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CASXPTGDXYEQYF,NPTGDFYE,"No, No, No, No, No, No, No, No, No, No, No, No, No",13,simulation8_signal3,simulation8,0,13
+CASXPTGXFYEQYF,NPTGDFYE,"No, No, No, No, No, No",6,simulation8_signal3,simulation8,0,6
+CASXPTSGRCTDTQYF,SEPTSGRDT,"No, No",2,simulation7_signal3,simulation7,0,2
+CASXRLAGGSGELFF,SHSLAGGSNE,"No, No",2,simulation6_signal3,simulation6,0,2
+CASXRLAGSTDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CASXRVGGYEQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CASXSGINQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CASXSXQGYGYTF,SYSEQGYG,"No, No, No, No, No, No, No, No, No, No",10,simulation5_signal3,simulation5,0,10
+CASXTLAGGAYEQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CASXWTGEKLFF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CASXWTGENTEAFF,WTGEKHE,"No, No, No, No",4,simulation1_signal1,simulation1,0,4
+CASXXAGADTQYF,PFAGADT,"No, No, No, No, No, No, No, No",8,simulation5_signal1,simulation5,0,8
+CASXXAGSTDTQYF,SRAAGSKDT,"No, No, No, No, No, No, No, No, No, No, No, No",12,simulation6_signal2,simulation6,0,12
+CASXXGGGMNTEAFF,SRKGGGMWTE,"No, No, No, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, No, No",22,simulation7_signal2,simulation7,1,21
+CASXXPPYNEQFF,PIPPYNE,"No, No, No",3,simulation4_signal1,simulation4,0,3
+CASXYEGSGSNQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CASXYRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CATGTXGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CATGXPGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CATLYRXYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CATPXGGAYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CATPXGSSYEQYF,TPWGGSYE,"No, No",2,simulation6_signal1,simulation6,0,2
+CATRXRGADTQYF,TGNRGADT,"No, No",2,simulation5_signal2,simulation5,0,2
+CATSDXGADTQYF,"PFAGADT,TGNRGADT","No, No",2,"simulation5_signal1,simulation5_signal2",simulation5,0,2
+CATSRAEGLXDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CATSRXGGGXNTEAFF,SRKGGGMWTE,"No, No, No",3,simulation7_signal2,simulation7,0,3
+CATSRXGRGMNTEAFF,SRKGGGMWTE,"No, No",2,simulation7_signal2,simulation7,0,2
+CAWRDXLAGGPYEQYF,SPLLAGGPYE,"No, No",2,simulation8_signal1,simulation8,0,2
+CAWTGEXYEQYF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CAWXPGGPYNEQFF,PIPPYNE,"No, No",2,simulation4_signal1,simulation4,0,2
+CAXGLAGGGYEQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CAXLAGVQETQYF,VLAPVQE,"No, No, No",3,simulation4_signal2,simulation4,0,3
+CAXSELGGXNQPQHF,ELSGINQP,"No, No, No",3,simulation3_signal2,simulation3,0,3
+CAXSEQGYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CAXSGINQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CAXSPXGGADTQYF,PFAGADT,"No, No, No",3,simulation5_signal1,simulation5,0,3
+CAXSRRGGSTDTQYF,SRAAGSKDT,"No, No",2,simulation6_signal2,simulation6,0,2
+CAXSTGEKKETQYF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CAXWTGEKLFF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
+CAXWTGEXYEQYF,WTGEKHE,"No, No, No",3,simulation1_signal1,simulation1,0,3
+CSAPTGXFYEQYF,NPTGDFYE,"No, No",2,simulation8_signal3,simulation8,0,2
+CSARGXDYNEQFF,SRAGADYNE,"No, No",2,simulation2_signal3,simulation2,0,2
+CSARLSGXNQPQHF,ELSGINQP,"No, No",2,simulation3_signal2,simulation3,0,2
+CSARXLAGGAYEQYF,RTLLGGASE,"No, No",2,simulation4_signal3,simulation4,0,2
+CSASXQGYGYTF,SYSEQGYG,"No, No",2,simulation5_signal3,simulation5,0,2
+CSAXLDRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CSAXRGRNTEAFF,SYERGMNTE,"No, No, No",3,simulation2_signal2,simulation2,0,3
+CSAXYRAYGYTF,HLYRAYG,"No, No",2,simulation1_signal3,simulation1,0,2
+CSXARGGYEQYF,SLAVGGYE,"No, No",2,simulation3_signal1,simulation3,0,2
+CXWTGEKLFF,WTGEKHE,"No, No",2,simulation1_signal1,simulation1,0,2
