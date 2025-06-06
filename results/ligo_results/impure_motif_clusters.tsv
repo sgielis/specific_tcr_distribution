@@ -1,0 +1,11 @@
+,motif,cluster,origin,seed,shared,simulation,shared_sequences,unique_sequences
+14,CASSXSGGXYEQYF,6,simulation1_signal2,SSQRGGIYE,"No, No, No, No, No, No",simulation1,0,6
+15,CASSXXGGXYEQYF,6,simulation1_signal2,SSQRGGIYE,"No, No, No, No, No, No, No, No, No, No",simulation1,0,10
+16,CASSLXGGXYEQYF,6,simulation1_signal2,SSQRGGIYE,"Yes, Yes, No, No, No, No, No, Yes",simulation1,3,5
+17,CASSLXXGXYEQYF,6,"simulation3_signal1,simulation3_signal3","SLAVGGYE,SRGSAET","Yes, Yes, Yes, No, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, No, No, Yes, Yes, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, Yes, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No, No",simulation3,8,72
+18,CASSLVGGXYEQYF,6,simulation1_signal2,SSQRGGIYE,"No, No",simulation1,0,2
+31,CASRTLAGGXNEQFF,13,simulation4_signal3,RTLLGGASE,"Yes, Yes",simulation4,2,0
+32,CASRXLAGGXNEQFF,13,simulation6_signal3,SHSLAGGSNE,"No, Yes, Yes",simulation6,2,1
+54,CASSXGRGXYNEQFF,24,simulation7_signal1,VVGRGAYNE,"No, No, No, No, No, No, No, No, No, No",simulation7,0,10
+55,CASSXGTGXYNEQFF,24,simulation2_signal1,KGTGLYNE,"No, No, No, No, No, No, No, No, No, No, No, No, No, No",simulation2,0,14
+56,CASRXGTGXYNEQFF,24,simulation2_signal1,KGTGLYNE,"No, No, No",simulation2,0,3
